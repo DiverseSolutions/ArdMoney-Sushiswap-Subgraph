@@ -8,9 +8,9 @@ dataSources:
     name: Factory
     network: mumbai
     source:
-      address: '0xB05AA12a5E8093A6aB561413Ea1B22684C79454B'
+      address: '0x5B969D20a6D208bf2618Da4E4F7F31AcFAf6B366'
       abi: Factory
-      startBlock: 25615698
+      startBlock: 26108595
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.3
